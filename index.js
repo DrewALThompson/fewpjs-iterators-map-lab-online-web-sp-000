@@ -17,6 +17,6 @@ const titleCased = () => {
     arr.map(word => word[0].toUppercase());
     console.log(arr);
     return arr.join();
-  };
+  }
 };
 
